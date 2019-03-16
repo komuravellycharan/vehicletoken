@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParkingTick</string>
+
+    <string name="type_prompt">Select vehicle type</string>
+    <string-array name="vehicles">
+        <item>car</item>
+        <item>truck</item>
+    </string-array>
+</resources>
